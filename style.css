@@ -7,6 +7,10 @@
     background-color: plum;
 }
 
+.black-bg {
+    background-color: black;
+}
+
 /* #id selector */
 #red-paragraph {
     color: red;
@@ -49,4 +53,10 @@ table, th, td {
 /* .compounding selectors */
 ul.list {
     border: 1px solid black;
+}
+
+.center {
+    text-align: center;
+    margin: 35px;
+    padding: 35px;
 }
